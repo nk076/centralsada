@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://www.centralofsuccess.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
